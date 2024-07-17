@@ -148,3 +148,18 @@ print(x + y)
 x = 5
 y = "John"
 print(x + y)
+
+#The best way to output multiple variables in the print() function is to separate them with commas, which even support different data types:
+x = 5
+y = "John"
+print(x, y)
+
+#Python - Global Variables
+"""
+Global Variables
+
+1.Variables that are created outside of a function (as in all of the examples in the previous pages) are known as global variables.
+2.Global variables can be used by everyone, both inside of functions and outside.
+"""
+
+#Create a variable outside of a function, and use it inside the function
