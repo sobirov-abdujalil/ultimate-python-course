@@ -8,7 +8,7 @@ more than just one line
 #This is one line comment
 
 """ 
-Why we using comment?
+Why do we use comments?
 
 1.Comments can be used to explain Python code.
 
